@@ -2,6 +2,16 @@
 
 This is the unfinished repository for a pre-demo reading activity. Read `Flask_PreDemo_Reading_Activity.pdf` first. 
 
+## Student Information
+
+- **Name:** [Panoringan, Mike Edroan]
+- **Section:** [BSIT-WMT 4-2]
+- **Original starter repository:** https://github.com/Jackson-Soriano/f1-elec4-stack-simulator-starter.git
+
+## Activity Description
+
+This repository is my copy of the Flask Stack Simulator for the ELEC 4 (Python Programming) activity. A stack follows Last In, First Out (LIFO), meaning the last item added is the first one removed. The simulator has four actions: Push (add an item), Pop (remove an item), Peek (view the top item), and Clear (remove all items).
+
 ## Before the demonstration
 
 1. Clone the repository URL supplied by your instructor.
